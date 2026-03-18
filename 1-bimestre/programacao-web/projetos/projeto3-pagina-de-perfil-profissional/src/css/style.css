@@ -3,7 +3,7 @@ body{
     font-family: verdana;
 }
 
-#titulo{
+.titulo{
     text-align: left ;
     background-color: black ;
     border: 5px;
@@ -16,7 +16,7 @@ body{
      background: gainsboro;
 }
 
-.profisao{
+.profissao{
     font-size: 12px;
     background-color: black;
 }
@@ -28,5 +28,3 @@ body{
     text-decoration-color: black;
     border: 2px;
 }
-
-/* teste do css */
