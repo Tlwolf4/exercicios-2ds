@@ -1,0 +1,13 @@
+#titulo{
+    text-align: center;
+    font-size: large;
+}
+
+.destaque{
+    color: aliceblue;
+    font-weight: 200;
+}
+
+p{
+    font-family: Verdana;
+}
