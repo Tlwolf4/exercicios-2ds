@@ -1,5 +1,5 @@
-import Profile from "./components/Profile/index.jsx";
-import "./styles/Profile.css";
+import Profile from "./components/Profile/index.jsx"
+import "./styles/Profile.css"
 
 const funcionarios = [
   {
@@ -20,7 +20,7 @@ const funcionarios = [
     profissao: "Product Manager",
     foto: "https://randomuser.me/api/portraits/women/68.jpg",
   },
-];
+]
 
 export default function App() {
   return (
