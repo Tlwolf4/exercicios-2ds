@@ -28,7 +28,7 @@ export default function App() {
       {funcionarios.map((funcionario) => (
         <Profile
           key={funcionario.nome}
-          nome={funcionario.nome}
+          noome={funcionario.nome}
           idade={funcionario.idade}
           profissao={funcionario.profissao}
           foto={funcionario.foto}
